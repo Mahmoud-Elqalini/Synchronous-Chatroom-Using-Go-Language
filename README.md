@@ -99,7 +99,7 @@ User Mahmoud left the chat
 ---
 
 ## 🎥 Demo Video
-🔗 Watch the running application demo here: *([video link here](https://drive.google.com/file/d/1J20QXFc4HrKfLxk7Yg01Jix3WCX6hF42/view?usp=drive_link))*
+🔗 Watch the running application demo here: *([video link here](https://drive.google.com/file/d/1B7mLmifS9hgauuVzKUXGCffD9I6Apeyw/view?usp=drive_link))*
 
 ---
 
