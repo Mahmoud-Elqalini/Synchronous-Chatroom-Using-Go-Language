@@ -1,4 +1,4 @@
-# Simple Chatroom (Go RPC)
+# Chatroom (Go RPC)
 
 ## 📖 Description
 
